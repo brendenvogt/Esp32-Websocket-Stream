@@ -9,3 +9,4 @@ Sending the command **start** will begin streaming a continuously incrementing i
 Sending the command **stop** will stop the counter and stop the counter and stop streaming, as well as turn off the onboard LED. <br/>
 Sending the command **reset** will reset the counter back to 0.
 
+<img src="https://github.com/brendenvogt/Esp32-Websocket-Stream/raw/master/resources/Esp32Stream.gif"/>
